@@ -38,6 +38,9 @@ const Skills = () => {
         <a href="https://github.com/" target="_blank">
           <div className="style">GitHub</div>
         </a>
+        <a href="https://semantic-ui.com/" target="_blank">
+          <div className="style">Semantic-UI</div>
+        </a>
       </div>
     </div>
   );
