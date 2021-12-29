@@ -27,7 +27,7 @@ const Skills = () => {
           <div className="style">JavaScript</div>
         </a>
         <a href="https://reactjs.org/" target="_blank">
-          <div className="style">React</div>
+          <div className="style">React.js</div>
         </a>
         <a href="https://redux.js.org/" target="_blank">
           <div className="style">Redux</div>
