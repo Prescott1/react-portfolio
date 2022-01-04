@@ -15,7 +15,6 @@
 }
 .section-one:hover, .section-two:hover, .section-three:hover{
     transform: scale(1.1);
-   
 }
 
 h1{

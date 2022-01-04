@@ -3,7 +3,7 @@ const MainHeader = () => {
   return (
     <div className="wrapper">
       <h1 id="home-link">Hi, I'm <span className="my-name">Jordan Prescott</span>.</h1>
-      <h2>A inspiring React Developer.</h2>
+      <h2>An inspiring React Developer.</h2>
       <p>
         In publishing and graphic design, Lorem ipsum is a placeholder text
         commonly used to demonstrate the visual form of a document or a typeface
@@ -18,3 +18,4 @@ const MainHeader = () => {
 };
 
 export default MainHeader;
+

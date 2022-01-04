@@ -11,7 +11,7 @@ const NavBar = () => {
           <span></span>
         </label>
 
-        <a href="#" className="site-logo">JP</a>
+        <a href="#home-link" className="site-logo">JP</a>
 
         <ul className="main-nav small-caps">
           <li>

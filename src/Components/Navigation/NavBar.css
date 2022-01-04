@@ -68,11 +68,10 @@ p {
 .site-logo {
 	font-size: 2rem;
 	font-weight: bolder;
-	text-transform: uppercase;
 	letter-spacing: 0.8rem;
 	margin: 0 1rem;
+	color: rgb(202, 76, 67);
 }
-
 /* --- Elements --- */
 
 

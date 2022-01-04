@@ -1,17 +1,17 @@
 import NavBar from "./Components/Navigation/NavBar";
 import MainHeader from "./Components/Content/MainHeader";
 import ProjectSection from "./Components/ProjectSection/ProjectSection";
-import Skills from "./Components/Skills/Skills";
+import ContinuousLearning from "./Components/ContinuousLearning/ContinuousLearning";
 import Footer from "./Components/Footer/Footer";
 function App() {
   return (
-    <>
+    <div>
     <NavBar />
     <MainHeader />
     <ProjectSection />
-    <Skills />
+    <ContinuousLearning />
     <Footer />
-    </>
+    </div>
   );
 }
 

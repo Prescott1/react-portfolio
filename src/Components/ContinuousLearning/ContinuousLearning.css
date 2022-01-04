@@ -3,7 +3,7 @@
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     text-align: center;
     grid-gap: 1.9rem;
-    
+    margin: 0 0.8rem 0 0.8rem;
 }
 .style{
     padding: 2rem;
@@ -12,7 +12,7 @@
     font-size: 1.3rem;
 }
 .style:hover{
-    transform: scale(1.1);
+    transform: scale(1.04);
     color:rgb(202, 76, 67);
 }
 h1{
